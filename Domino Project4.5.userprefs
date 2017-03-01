@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\bollmove.cs">
+    <Files>
+      <File FileName="Assets\script\bollmove.cs" Line="14" Column="3" />
+      <File FileName="Assets\script\DestroyEnemy.cs" Line="12" Column="18" />
+      <File FileName="Assets\script\objMove.cs" Line="19" Column="88" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

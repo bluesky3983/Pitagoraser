@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: 800f9308d4d83e344806802117de4704
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: desk2
+    100002: huta
+    100004: joint2
+    100006: joint3
+    100008: joint4
+    100010: joint5
+    100012: joint6
+    100014: //RootNode
+    100016: pepper
+    100018: polySurface28
+    100020: polySurface29
+    100022: polySurface30
+    100024: polySurface31
+    100026: transform1
+    100028: transform2
+    100030: transform3
+    100032: transform4
+    100034: transform5
+    100036: transform6
+    400000: desk2
+    400002: huta
+    400004: joint2
+    400006: joint3
+    400008: joint4
+    400010: joint5
+    400012: joint6
+    400014: //RootNode
+    400016: pepper
+    400018: polySurface28
+    400020: polySurface29
+    400022: polySurface30
+    400024: polySurface31
+    400026: transform1
+    400028: transform2
+    400030: transform3
+    400032: transform4
+    400034: transform5
+    400036: transform6
+    4300000: polySurface31
+    7400000: kosyou 01
+    7400002: kosyou 02
+    7400004: kosyou 03
+    7400006: kosyou 04
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface31
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: kosyou 01
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: desk2
+        weight: 1
+      - path: desk2/transform3
+        weight: 1
+      - path: joint5
+        weight: 1
+      - path: joint5/joint2
+        weight: 1
+      - path: joint5/joint2/joint3
+        weight: 1
+      - path: joint5/joint2/joint3/joint4
+        weight: 1
+      - path: joint5/joint2/joint3/joint4/joint6
+        weight: 1
+      - path: pepper
+        weight: 1
+      - path: pepper/huta
+        weight: 1
+      - path: pepper/huta/transform1
+        weight: 1
+      - path: pepper/transform2
+        weight: 1
+      - path: polySurface28
+        weight: 1
+      - path: polySurface28/polySurface29
+        weight: 1
+      - path: polySurface28/polySurface29/transform5
+        weight: 1
+      - path: polySurface28/polySurface30
+        weight: 1
+      - path: polySurface28/polySurface30/transform6
+        weight: 1
+      - path: polySurface28/transform4
+        weight: 1
+      - path: polySurface31
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: kosyou 02
+      takeName: Take 001
+      firstFrame: 17
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: desk2
+        weight: 1
+      - path: desk2/transform3
+        weight: 1
+      - path: joint5
+        weight: 1
+      - path: joint5/joint2
+        weight: 1
+      - path: joint5/joint2/joint3
+        weight: 1
+      - path: joint5/joint2/joint3/joint4
+        weight: 1
+      - path: joint5/joint2/joint3/joint4/joint6
+        weight: 1
+      - path: pepper
+        weight: 1
+      - path: pepper/huta
+        weight: 1
+      - path: pepper/huta/transform1
+        weight: 1
+      - path: pepper/transform2
+        weight: 1
+      - path: polySurface28
+        weight: 1
+      - path: polySurface28/polySurface29
+        weight: 1
+      - path: polySurface28/polySurface29/transform5
+        weight: 1
+      - path: polySurface28/polySurface30
+        weight: 1
+      - path: polySurface28/polySurface30/transform6
+        weight: 1
+      - path: polySurface28/transform4
+        weight: 1
+      - path: polySurface31
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: kosyou 03
+      takeName: Take 001
+      firstFrame: 35
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: desk2
+        weight: 1
+      - path: desk2/transform3
+        weight: 1
+      - path: joint5
+        weight: 1
+      - path: joint5/joint2
+        weight: 1
+      - path: joint5/joint2/joint3
+        weight: 1
+      - path: joint5/joint2/joint3/joint4
+        weight: 1
+      - path: joint5/joint2/joint3/joint4/joint6
+        weight: 1
+      - path: pepper
+        weight: 1
+      - path: pepper/huta
+        weight: 1
+      - path: pepper/huta/transform1
+        weight: 1
+      - path: pepper/transform2
+        weight: 1
+      - path: polySurface28
+        weight: 1
+      - path: polySurface28/polySurface29
+        weight: 1
+      - path: polySurface28/polySurface29/transform5
+        weight: 1
+      - path: polySurface28/polySurface30
+        weight: 1
+      - path: polySurface28/polySurface30/transform6
+        weight: 1
+      - path: polySurface28/transform4
+        weight: 1
+      - path: polySurface31
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: kosyou 04
+      takeName: Take 001
+      firstFrame: 54
+      lastFrame: 84
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: desk2
+        weight: 1
+      - path: desk2/transform3
+        weight: 1
+      - path: joint5
+        weight: 1
+      - path: joint5/joint2
+        weight: 1
+      - path: joint5/joint2/joint3
+        weight: 1
+      - path: joint5/joint2/joint3/joint4
+        weight: 1
+      - path: joint5/joint2/joint3/joint4/joint6
+        weight: 1
+      - path: pepper
+        weight: 1
+      - path: pepper/huta
+        weight: 1
+      - path: pepper/huta/transform1
+        weight: 1
+      - path: pepper/transform2
+        weight: 1
+      - path: polySurface28
+        weight: 1
+      - path: polySurface28/polySurface29
+        weight: 1
+      - path: polySurface28/polySurface29/transform5
+        weight: 1
+      - path: polySurface28/polySurface30
+        weight: 1
+      - path: polySurface28/polySurface30/transform6
+        weight: 1
+      - path: polySurface28/transform4
+        weight: 1
+      - path: polySurface31
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

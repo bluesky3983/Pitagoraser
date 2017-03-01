@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: d0a60ea9f2b17574eb24a043e9342843
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: controller1
+    100002: controller1 1
+    100004: controller1 2
+    100006: controller1 3
+    100008: featherData:feather1
+    100010: featherData:polySurface2
+    100012: head1
+    100014: ik_Rleg
+    100016: ikHandle1
+    100018: L_arm1
+    100020: L_feather1
+    100022: L_feather2
+    100024: L_foot1
+    100026: L_hand1
+    100028: L_knee1
+    100030: L_leg1
+    100032: loc_Lfeather
+    100034: loc_Rfeather
+    100036: locator1
+    100038: locator2
+    100040: locator2 1
+    100042: locator3
+    100044: lower1
+    100046: neck1
+    100048: polySurface2
+    100050: polySurface63
+    100052: R_arm1
+    100054: R_feather1
+    100056: R_feather2
+    100058: R_foot1
+    100060: R_hand1
+    100062: R_knee1
+    100064: R_leg1
+    100066: R_shoulder1
+    100068: rig_Head
+    100070: rig_Hips
+    100072: rig_L_foot1
+    100074: rig_L_leg_plv
+    100076: rig_Lfeather
+    100078: rig_Lshoulder1
+    100080: rig_Neck
+    100082: rig_R_foot1
+    100084: rig_R_leg_plv1
+    100086: rig_Rfeather1
+    100088: rig_Spine1
+    100090: rig_Waist
+    100092: root
+    100094: //RootNode
+    100096: upper1
+    400000: controller1
+    400002: controller1 1
+    400004: controller1 2
+    400006: controller1 3
+    400008: featherData:feather1
+    400010: featherData:polySurface2
+    400012: head1
+    400014: ik_Rleg
+    400016: ikHandle1
+    400018: L_arm1
+    400020: L_feather1
+    400022: L_feather2
+    400024: L_foot1
+    400026: L_hand1
+    400028: L_knee1
+    400030: L_leg1
+    400032: loc_Lfeather
+    400034: loc_Rfeather
+    400036: locator1
+    400038: locator2
+    400040: locator2 1
+    400042: locator3
+    400044: lower1
+    400046: neck1
+    400048: polySurface2
+    400050: polySurface63
+    400052: R_arm1
+    400054: R_feather1
+    400056: R_feather2
+    400058: R_foot1
+    400060: R_hand1
+    400062: R_knee1
+    400064: R_leg1
+    400066: R_shoulder1
+    400068: rig_Head
+    400070: rig_Hips
+    400072: rig_L_foot1
+    400074: rig_L_leg_plv
+    400076: rig_Lfeather
+    400078: rig_Lshoulder1
+    400080: rig_Neck
+    400082: rig_R_foot1
+    400084: rig_R_leg_plv1
+    400086: rig_Rfeather1
+    400088: rig_Spine1
+    400090: rig_Waist
+    400092: root
+    400094: //RootNode
+    400096: upper1
+    4300000: polySurface63
+    7400000: Set
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface63
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Set
+      takeName: Uni_31_set
+      firstFrame: 1
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: featherData:feather1
+        weight: 1
+      - path: featherData:polySurface2
+        weight: 1
+      - path: ik_Rleg
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      - path: polySurface63
+        weight: 1
+      - path: rig_Waist
+        weight: 1
+      - path: rig_Waist/rig_Hips
+        weight: 1
+      - path: rig_Waist/rig_L_foot1
+        weight: 1
+      - path: rig_Waist/rig_L_foot1/rig_L_leg_plv
+        weight: 1
+      - path: rig_Waist/rig_R_foot1
+        weight: 1
+      - path: rig_Waist/rig_R_foot1/rig_R_leg_plv1
+        weight: 1
+      - path: rig_Waist/rig_Spine1
+        weight: 1
+      - path: rig_Waist/rig_Spine1/loc_Lfeather
+        weight: 1
+      - path: rig_Waist/rig_Spine1/loc_Lfeather/rig_Lfeather
+        weight: 1
+      - path: rig_Waist/rig_Spine1/loc_Rfeather
+        weight: 1
+      - path: rig_Waist/rig_Spine1/loc_Rfeather/rig_Rfeather1
+        weight: 1
+      - path: rig_Waist/rig_Spine1/locator1
+        weight: 1
+      - path: rig_Waist/rig_Spine1/locator1/controller1
+        weight: 1
+      - path: rig_Waist/rig_Spine1/locator1/controller1/locator2
+        weight: 1
+      - path: rig_Waist/rig_Spine1/locator1/controller1/locator2/controller1 2
+        weight: 1
+      - path: rig_Waist/rig_Spine1/locator3
+        weight: 1
+      - path: rig_Waist/rig_Spine1/locator3/controller1 1
+        weight: 1
+      - path: rig_Waist/rig_Spine1/locator3/controller1 1/locator2 1
+        weight: 1
+      - path: rig_Waist/rig_Spine1/locator3/controller1 1/locator2 1/controller1 3
+        weight: 1
+      - path: rig_Waist/rig_Spine1/rig_Neck
+        weight: 1
+      - path: rig_Waist/rig_Spine1/rig_Neck/rig_Head
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/lower1
+        weight: 1
+      - path: root/lower1/L_leg1
+        weight: 1
+      - path: root/lower1/L_leg1/L_knee1
+        weight: 1
+      - path: root/lower1/L_leg1/L_knee1/L_foot1
+        weight: 1
+      - path: root/lower1/R_leg1
+        weight: 1
+      - path: root/lower1/R_leg1/R_knee1
+        weight: 1
+      - path: root/lower1/R_leg1/R_knee1/R_foot1
+        weight: 1
+      - path: root/upper1
+        weight: 1
+      - path: root/upper1/L_feather1
+        weight: 1
+      - path: root/upper1/L_feather1/L_feather2
+        weight: 1
+      - path: root/upper1/neck1
+        weight: 1
+      - path: root/upper1/neck1/head1
+        weight: 1
+      - path: root/upper1/R_feather1
+        weight: 1
+      - path: root/upper1/R_feather1/R_feather2
+        weight: 1
+      - path: root/upper1/R_shoulder1
+        weight: 1
+      - path: root/upper1/R_shoulder1/R_arm1
+        weight: 1
+      - path: root/upper1/R_shoulder1/R_arm1/R_hand1
+        weight: 1
+      - path: root/upper1/rig_Lshoulder1
+        weight: 1
+      - path: root/upper1/rig_Lshoulder1/L_arm1
+        weight: 1
+      - path: root/upper1/rig_Lshoulder1/L_arm1/L_hand1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
