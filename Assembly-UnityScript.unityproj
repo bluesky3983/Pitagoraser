@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{22BDE51C-94AF-A6B7-41C6-1CFAF87C182F}</ProjectGuid>
+	<ProjectGuid>{28D4D68B-3115-DA85-D288-8828F349C91C}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,10 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\script\CharacterMotor.js" />
-     <Compile Include="Assets\script\PlatformInputController.js" />
-     <Compile Include="Assets\script\Pusher.js" />
-     <Compile Include="Assets\script\ThirdPersonCamera 1.js" />
+     <Compile Include="Assets\Script\CharacterMotor.js" />
+     <Compile Include="Assets\Script\PlatformInputController.js" />
+     <Compile Include="Assets\Script\Pusher.js" />
+     <Compile Include="Assets\Script\ThirdPersonCamera 1.js" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
@@ -60,7 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
-      <Project>{2DB67F50-1044-1DD1-8B5A-67EB2C7762A1}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+      <Project>{F1B7FE2F-9BB0-96B8-8FD7-C76B795BF47C}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

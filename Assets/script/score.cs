@@ -17,14 +17,3 @@ public class score : MonoBehaviour {
 		guiText.text = Escore.ToString ();
 	}
 }
-
-/*
- * if( highscore > rank1){
- * 		temp = rank1
- * 		rank1 = highscore
- * 		
- * }else if(highscore > rank2){
- * 		
- *
- *}
- */

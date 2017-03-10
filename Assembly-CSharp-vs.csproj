@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{3326C451-5952-D72B-62CC-C7E08F544098}</ProjectGuid>
+	<ProjectGuid>{991F9A5C-C82B-F54D-0C6D-2BACD5E33EFA}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,32 +46,30 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\script\BallMove.cs" />
-     <Compile Include="Assets\script\CameraFade.cs" />
-     <Compile Include="Assets\script\ChangeGameScene.cs" />
-     <Compile Include="Assets\script\Count.cs" />
-     <Compile Include="Assets\script\DestroyEnemy.cs" />
-     <Compile Include="Assets\script\DominoObj.cs" />
-     <Compile Include="Assets\script\DominoPut.cs" />
-     <Compile Include="Assets\script\DominoScript.cs" />
-     <Compile Include="Assets\script\DominoSpown.cs" />
-     <Compile Include="Assets\script\EnemyPop.cs" />
-     <Compile Include="Assets\script\ErasedEnemy.cs" />
-     <Compile Include="Assets\script\GameOver.cs" />
-     <Compile Include="Assets\script\ReturnTitle.cs" />
-     <Compile Include="Assets\script\Timer.cs" />
-     <Compile Include="Assets\script\dontdestroy.cs" />
-     <Compile Include="Assets\script\eMove1.cs" />
-     <Compile Include="Assets\script\jenga.cs" />
-     <Compile Include="Assets\script\objMove.cs" />
-     <Compile Include="Assets\script\ranking.cs" />
-     <Compile Include="Assets\script\score.cs" />
+     <Compile Include="Assets\Script\BallMove.cs" />
+     <Compile Include="Assets\Script\CameraFade.cs" />
+     <Compile Include="Assets\Script\ChangeGameScene.cs" />
+     <Compile Include="Assets\Script\Count.cs" />
+     <Compile Include="Assets\Script\DestroyEnemy.cs" />
+     <Compile Include="Assets\Script\DominoObj.cs" />
+     <Compile Include="Assets\Script\DominoPut.cs" />
+     <Compile Include="Assets\Script\EnemyPop.cs" />
+     <Compile Include="Assets\Script\ErasedEnemy.cs" />
+     <Compile Include="Assets\Script\GameOver.cs" />
+     <Compile Include="Assets\Script\Ranking.cs" />
+     <Compile Include="Assets\Script\ReturnTitle.cs" />
+     <Compile Include="Assets\Script\Timer.cs" />
+     <Compile Include="Assets\Script\dontdestroy.cs" />
+     <Compile Include="Assets\Script\eMove.cs" />
+     <Compile Include="Assets\Script\jenga.cs" />
+     <Compile Include="Assets\Script\objMove.cs" />
+     <Compile Include="Assets\Script\score.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/金子　将/Desktop/提出用データ/Pitagoraser_Unity/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>D:/GitHubRepositories/Pitagoraser/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files (x86)/Unity4/Editor/Data/UnityExtensions/Unity/GUISystem/4.7.2/Standalone/UnityEngine.UI.dll</HintPath>

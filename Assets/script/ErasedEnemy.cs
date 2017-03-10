@@ -9,8 +9,6 @@ public class ErasedEnemy : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		counter = GameObject.Find ("DeathCounter");
-		//audioSource = gameObject.GetComponent<AudioSource> ();
-		//audioSource.clip = enemy_down;
 	}
 	
 	// Update is called once per frame
@@ -21,12 +19,8 @@ public class ErasedEnemy : MonoBehaviour {
 	{
 		if (col.gameObject.tag == "Enemy")
 		{
-			//Debug.Log("ok");
 			OverCount--;
 			Destroy(col.gameObject);
-			//audioSource.Play();
-			//Count script = counter.GetComponent<Count>();
-			//script.DestroyCount++;
 		}
 	}
 }

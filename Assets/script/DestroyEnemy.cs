@@ -22,7 +22,6 @@ public class DestroyEnemy : MonoBehaviour {
 	{
 		if (col.gameObject.tag == "Enemy")
 		{
-			//Debug.Log("ok");
 			Destroy(col.gameObject);
 			audioSource.Play();
 			Count script = counter.GetComponent<Count>();

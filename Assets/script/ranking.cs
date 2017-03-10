@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class ranking : MonoBehaviour {
+public class Ranking : MonoBehaviour {
 
 	public int ranking1 = 0;
 	public int ranking2 = 0;
@@ -52,7 +52,6 @@ void Start () {
 								rank [i] = nowScore;
 								nowScore = temp;
 						}
-						Debug.Log ("rank0!");
 						
 				} else if (nowScore >= rank [1]) {
 						for (int i = 1; i <= 4; i++) {
@@ -60,7 +59,6 @@ void Start () {
 								rank [i] = nowScore;
 								nowScore = temp;
 						}
-						Debug.Log ("rank1!");
 						
 				} else if (nowScore >= rank [2]) {
 						for (int i = 2; i <= 4; i++) {
@@ -68,7 +66,6 @@ void Start () {
 								rank [i] = nowScore;
 								nowScore = temp;
 						}
-						Debug.Log ("rank2!");
 						
 				} else if (nowScore >= rank [3]) {
 						for (int i = 3; i <= 4; i++) {
@@ -76,7 +73,6 @@ void Start () {
 								rank [i] = nowScore;
 								nowScore = temp;
 						}
-						Debug.Log ("rank3!");
 						
 				} else if (nowScore >= rank [4]) {
 						for (int i = 4; i <= 4; i++) {
@@ -84,16 +80,10 @@ void Start () {
 								rank [i] = nowScore;
 								nowScore = temp;
 						}
-						Debug.Log ("rank4!");
 						
 				} else {
 						
 				}
-				Debug.Log (rank [0]);
-				Debug.Log (rank [1]);
-				Debug.Log (rank [2]);
-				Debug.Log (rank [3]);
-				Debug.Log (rank [4]);
 				rank1.guiText.text = rank [0].ToString ();
 				rank2.guiText.text = rank [1].ToString ();
 				rank3.guiText.text = rank [2].ToString ();

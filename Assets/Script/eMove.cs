@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class eMove1 : MonoBehaviour {
+public class eMove : MonoBehaviour {
 
 	private Transform Target;
 	public GameObject Ossan;

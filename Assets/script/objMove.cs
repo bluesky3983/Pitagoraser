@@ -26,7 +26,6 @@ public class objMove : MonoBehaviour {
 	void OnTriggerEnter(Collider Col)
 	{
 		if( Col.gameObject.tag == "Gimmick" ){
-			//Debug.Log("ok");
 			Col.gameObject.rigidbody.AddForce(new Vector3(-Speed,0,0),ForceMode.VelocityChange);
 			counter++;
 		}

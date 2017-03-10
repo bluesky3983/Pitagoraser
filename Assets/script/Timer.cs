@@ -42,8 +42,6 @@ public class Timer : MonoBehaviour {
 		guiText.text = "0" + text3.ToString()+":"+text2.ToString()+text1.ToString();
 
 
-		//Debug.Log(Time.realtimeSinceStartup);
-		//guiText.text = Time.realtimeSinceStartup.ToString();
 		if (time3 == change&&time2 == 0&&time1 == 1) {
 			// 1秒後に1秒かけて白色でフェードイン
 			//CameraFade.StartAlphaFade(Color.white, true, 0f, 0f);

@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Timer.cs">
+    <Files>
+      <File FileName="Assets\Script\GameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ErasedEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\jenga.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\objMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ranking.cs" Line="4" Column="15" />
+      <File FileName="Assets\Script\ReturnTitle.cs" Line="22" Column="1" />
+      <File FileName="Assets\Script\score.cs" Line="20" Column="1" />
+      <File FileName="Assets\Script\ThirdPersonCamera 1.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\Timer.cs" Line="44" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

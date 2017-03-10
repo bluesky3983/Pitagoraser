@@ -11,10 +11,6 @@ public class EnemyPop : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		enemy = Resources.Load ("Enemy") as GameObject;
-		//enemy.AddComponent<eMove1>();
-
-		//particle1 = GameObject.Find ("/EnemyPop/Sparkle Rising/SparkleParticles").GetComponent<ParticleEmitter>;
-		//particle2 = GameObject.Find ("/EnemyPop/Sparkle Rising/SparkleParticlesSecondary").GetComponent<ParticleEmitter>;
 	}
 	
 	// Update is called once per frame
