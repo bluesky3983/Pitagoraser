@@ -13,7 +13,7 @@ WASDで移動、左クリックでドミノを配置、右クリックでドミ�
 <br>
 # 担当箇所<br>
 <br>
-自分が担当
+自分が担当<br>
 BallMove.cs<br>
 ChangeGameScene.cs<br>
 DestroyEnemy.cs<br>
